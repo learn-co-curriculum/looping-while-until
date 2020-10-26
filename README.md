@@ -27,4 +27,4 @@ Fill out the content of the `using_until` method to `puts` the desired phrase, "
 
 **Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL+C` on your keyboard.**
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/looping-while-until'>While and Until Loops Lab</a> on Learn.co and start learning to code for free.</p>
+
