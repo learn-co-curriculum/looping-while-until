@@ -6,7 +6,7 @@
 2. Build a method that uses `until`
 
 
-# Using `while` and `until`
+## Using `while` and `until`
 
 It's our first year at Hogwarts and we're struggling to master the levitation charm, "Wingardium Leviosa". Currently, we have a levitation force of `6`. We need to have a levitation force of `10` in order to actually levitate that feather.
 
@@ -26,5 +26,3 @@ Fill out the content of the `using_while` method so that calling it will `puts` 
 Fill out the content of the `using_until` method to `puts` the desired phrase, "Wingardium Leviosa", until our levitation force equals `10`. Remember, every time you `puts` the phrase, you should increment your levitation force by `1`.
 
 **Hint: If you get stuck an infinite loop when you run your tests or your code, you can abort the test run or code by pressing `CONTROL+C` on your keyboard.**
-
-
